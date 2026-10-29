@@ -1,5 +1,5 @@
 
-const API_URL = "https://pragyanai-pixelcraft-image-processing.onrender.com";
+const API_URL = "https://pragyanai-pixelcraft-image-processing-w06t.onrender.com";
 
 const imageInput = document.getElementById("imageInput");
 const image2Input = document.getElementById("image2Input");
